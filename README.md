@@ -1,0 +1,2 @@
+# Transformative-Movie-Discovery-Large-Language-Models-for-Recommendation-and-Genre-Prediction
+This repository implements a comprehensive movie discovery system that leverages 4 different Large Language Models (including GPT-3.5-turbo) for personalized movie recommendations. The system transforms movie trailer audio transcripts into movie summaries, predicts genres, and generates personalized movie rankings based on user preferences.
